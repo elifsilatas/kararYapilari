@@ -1,0 +1,17 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.deps.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.runtimeconfig.json
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.AssemblyInfoInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.AssemblyInfo.cs
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\refint\Karar_Yapilari.dll
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.genruntimeconfig.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Karar_Yapilari\obj\Debug\net6.0-windows\ref\Karar_Yapilari.dll
